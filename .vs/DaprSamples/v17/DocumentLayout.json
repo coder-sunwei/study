@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\sunwei\\Documents\\code\\DaprSamples\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CEF7C70B-4134-43C0-83E7-3F125B935F34}|state_management\\http\\EventService\\EventService.csproj|c:\\users\\sunwei\\documents\\code\\daprsamples\\state_management\\http\\eventservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEF7C70B-4134-43C0-83E7-3F125B935F34}|state_management\\http\\EventService\\EventService.csproj|solutionrelative:state_management\\http\\eventservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B0B7B4F5-D85A-4A86-B58E-6E85927EE20E}|state_management\\http\\EventService.DeleteState\\EventService.DeleteState.csproj|c:\\users\\sunwei\\documents\\code\\daprsamples\\state_management\\http\\eventservice.deletestate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0B7B4F5-D85A-4A86-B58E-6E85927EE20E}|state_management\\http\\EventService.DeleteState\\EventService.DeleteState.csproj|solutionrelative:state_management\\http\\eventservice.deletestate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{300E05BF-B759-47D1-B42C-79F74D76DC24}|service_invocation\\http\\Checkout\\Checkout.csproj|c:\\users\\sunwei\\documents\\code\\daprsamples\\service_invocation\\http\\checkout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{300E05BF-B759-47D1-B42C-79F74D76DC24}|service_invocation\\http\\Checkout\\Checkout.csproj|solutionrelative:service_invocation\\http\\checkout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8456E3A2-73C5-456B-9636-1BC152AB3951}|service_invocation\\http\\OrderProcessor\\OrderProcessor.csproj|c:\\users\\sunwei\\documents\\code\\daprsamples\\service_invocation\\http\\orderprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8456E3A2-73C5-456B-9636-1BC152AB3951}|service_invocation\\http\\OrderProcessor\\OrderProcessor.csproj|solutionrelative:service_invocation\\http\\orderprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2DA338-F91A-48F4-A0B6-C1DBF44D9B50}|state_management\\http\\EventService.SaveAndGetState\\EventService.SaveAndGetState.csproj|c:\\users\\sunwei\\documents\\code\\daprsamples\\state_management\\http\\eventservice.saveandgetstate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2DA338-F91A-48F4-A0B6-C1DBF44D9B50}|state_management\\http\\EventService.SaveAndGetState\\EventService.SaveAndGetState.csproj|solutionrelative:state_management\\http\\eventservice.saveandgetstate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{37063E6D-3C44-43B1-A305-A9DF9929E03D}|pubsub\\http\\Checkout\\Checkout.csproj|c:\\users\\sunwei\\documents\\code\\daprsamples\\pubsub\\http\\checkout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,19 +38,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sunwei\\Documents\\code\\DaprSamples\\service_invocation\\http\\OrderProcessor\\Program.cs",
+              "RelativeDocumentMoniker": "service_invocation\\http\\OrderProcessor\\Program.cs",
+              "ToolTip": "C:\\Users\\sunwei\\Documents\\code\\DaprSamples\\service_invocation\\http\\OrderProcessor\\Program.cs",
+              "RelativeToolTip": "service_invocation\\http\\OrderProcessor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T07:12:16.684Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sunwei\\Documents\\code\\DaprSamples\\state_management\\http\\EventService\\Program.cs",
-              "RelativeDocumentMoniker": "state_management\\http\\EventService\\Program.cs",
-              "ToolTip": "C:\\Users\\sunwei\\Documents\\code\\DaprSamples\\state_management\\http\\EventService\\Program.cs",
-              "RelativeToolTip": "state_management\\http\\EventService\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\sunwei\\Documents\\code\\DaprSamples\\state_management\\http\\EventService.DeleteState\\Program.cs",
+              "RelativeDocumentMoniker": "state_management\\http\\EventService.DeleteState\\Program.cs",
+              "ToolTip": "C:\\Users\\sunwei\\Documents\\code\\DaprSamples\\state_management\\http\\EventService.DeleteState\\Program.cs",
+              "RelativeToolTip": "state_management\\http\\EventService.DeleteState\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T06:52:47.888Z",
+              "WhenOpened": "2024-12-02T07:10:32.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sunwei\\Documents\\code\\DaprSamples\\state_management\\http\\EventService.SaveAndGetState\\Program.cs",
+              "RelativeDocumentMoniker": "state_management\\http\\EventService.SaveAndGetState\\Program.cs",
+              "ToolTip": "C:\\Users\\sunwei\\Documents\\code\\DaprSamples\\state_management\\http\\EventService.SaveAndGetState\\Program.cs",
+              "RelativeToolTip": "state_management\\http\\EventService.SaveAndGetState\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T07:08:37.45Z",
               "EditorCaption": ""
             },
             {
@@ -53,14 +87,14 @@
               "RelativeDocumentMoniker": "service_invocation\\http\\Checkout\\Program.cs",
               "ToolTip": "C:\\Users\\sunwei\\Documents\\code\\DaprSamples\\service_invocation\\http\\Checkout\\Program.cs",
               "RelativeToolTip": "service_invocation\\http\\Checkout\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T06:21:22.019Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\sunwei\\Documents\\code\\DaprSamples\\pubsub\\http\\OrderProcessor\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "pubsub\\http\\OrderProcessor\\Properties\\launchSettings.json",
@@ -73,20 +107,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\sunwei\\Documents\\code\\DaprSamples\\pubsub\\http\\Checkout\\Program.cs",
               "RelativeDocumentMoniker": "pubsub\\http\\Checkout\\Program.cs",
               "ToolTip": "C:\\Users\\sunwei\\Documents\\code\\DaprSamples\\pubsub\\http\\Checkout\\Program.cs",
               "RelativeToolTip": "pubsub\\http\\Checkout\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAABIwBoAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T01:26:47.532Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\sunwei\\Documents\\code\\DaprSamples\\pubsub\\http\\OrderProcessor\\Program.cs",
               "RelativeDocumentMoniker": "pubsub\\http\\OrderProcessor\\Program.cs",
