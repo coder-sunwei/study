@@ -1,0 +1,14 @@
+C:\Users\sunwei\Documents\code\DaprSamples\state_management\http\OrderProcessor\bin\Debug\net9.0\OrderProcessor.exe
+C:\Users\sunwei\Documents\code\DaprSamples\state_management\http\OrderProcessor\bin\Debug\net9.0\OrderProcessor.deps.json
+C:\Users\sunwei\Documents\code\DaprSamples\state_management\http\OrderProcessor\bin\Debug\net9.0\OrderProcessor.runtimeconfig.json
+C:\Users\sunwei\Documents\code\DaprSamples\state_management\http\OrderProcessor\bin\Debug\net9.0\OrderProcessor.dll
+C:\Users\sunwei\Documents\code\DaprSamples\state_management\http\OrderProcessor\bin\Debug\net9.0\OrderProcessor.pdb
+C:\Users\sunwei\Documents\code\DaprSamples\state_management\http\OrderProcessor\obj\Debug\net9.0\OrderProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sunwei\Documents\code\DaprSamples\state_management\http\OrderProcessor\obj\Debug\net9.0\OrderProcessor.AssemblyInfoInputs.cache
+C:\Users\sunwei\Documents\code\DaprSamples\state_management\http\OrderProcessor\obj\Debug\net9.0\OrderProcessor.AssemblyInfo.cs
+C:\Users\sunwei\Documents\code\DaprSamples\state_management\http\OrderProcessor\obj\Debug\net9.0\OrderProcessor.csproj.CoreCompileInputs.cache
+C:\Users\sunwei\Documents\code\DaprSamples\state_management\http\OrderProcessor\obj\Debug\net9.0\OrderProcessor.dll
+C:\Users\sunwei\Documents\code\DaprSamples\state_management\http\OrderProcessor\obj\Debug\net9.0\refint\OrderProcessor.dll
+C:\Users\sunwei\Documents\code\DaprSamples\state_management\http\OrderProcessor\obj\Debug\net9.0\OrderProcessor.pdb
+C:\Users\sunwei\Documents\code\DaprSamples\state_management\http\OrderProcessor\obj\Debug\net9.0\OrderProcessor.genruntimeconfig.cache
+C:\Users\sunwei\Documents\code\DaprSamples\state_management\http\OrderProcessor\obj\Debug\net9.0\ref\OrderProcessor.dll
