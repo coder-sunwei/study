@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventService.DeleteState", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventService.SaveAndGetState", "state_management\http\EventService.SaveAndGetState\EventService.SaveAndGetState.csproj", "{FB2DA338-F91A-48F4-A0B6-C1DBF44D9B50}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventService.TransactionOperation", "state_management\http\EventService.TransactionOperation\EventService.TransactionOperation.csproj", "{ED2FEE83-B129-44A0-BB45-D1CF4A7D1E7F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{FB2DA338-F91A-48F4-A0B6-C1DBF44D9B50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB2DA338-F91A-48F4-A0B6-C1DBF44D9B50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB2DA338-F91A-48F4-A0B6-C1DBF44D9B50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED2FEE83-B129-44A0-BB45-D1CF4A7D1E7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED2FEE83-B129-44A0-BB45-D1CF4A7D1E7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED2FEE83-B129-44A0-BB45-D1CF4A7D1E7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED2FEE83-B129-44A0-BB45-D1CF4A7D1E7F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -78,5 +84,6 @@ Global
 		{37063E6D-3C44-43B1-A305-A9DF9929E03D} = {FCB56C0A-75BD-4288-B2C2-D659D582D160}
 		{B0B7B4F5-D85A-4A86-B58E-6E85927EE20E} = {05DC43A8-7728-458E-9951-ED4C9E16E2CD}
 		{FB2DA338-F91A-48F4-A0B6-C1DBF44D9B50} = {05DC43A8-7728-458E-9951-ED4C9E16E2CD}
+		{ED2FEE83-B129-44A0-BB45-D1CF4A7D1E7F} = {05DC43A8-7728-458E-9951-ED4C9E16E2CD}
 	EndGlobalSection
 EndGlobal
